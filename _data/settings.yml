@@ -8,15 +8,15 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
+    - title: 'Formations'
       url: '/'
-    - title: 'Blog'
+    - title: 'Actualités'
       url: '/blog/'
 
 footer_settings:
   logo_image: 
   logo_width: 100
-  tagline: A beautiful, minimal portfolio Jekyll theme
+  tagline: Découvrez, échangez, discutez et apprennez
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg

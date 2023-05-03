@@ -4,7 +4,7 @@ subtitle: Vous voulez prévenir et détecter les risques de corruption dans votr
 date: 2019-07-24 00:00:00
 description: Vous voulez prévenir et détecter les risques de corruption dans votre organisation ? Découvrez notre formation en ligne qui vous apprendra à cartographier les risques de corruption et à mettre en place des mesures de prévention efficaces.
 featured_image: demo.jpg
-accent_color: '#30B0C7'
+accent_color: '#FF7898'
 gallery_images:
   - demo.jpg
   - demo.jpg
