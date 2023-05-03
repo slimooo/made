@@ -1,9 +1,10 @@
 ---
 layout: default
 ---
+{% if post.accent_color %}{% capture accent_color %}{{ post.accent_color }}{% endcapture %}{% endif %}
 <div class="page-post">
 
-	<header class="post__header header--single">
+	<header class="post__header header--single" style="--accent: {{ accent_color }}">
 		
 		<div class="wrap">
 			<h1 class="post__title">{{ page.title }}</h1>
