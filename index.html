@@ -29,24 +29,24 @@ featured_image: /images/social.jpg
 	<section class="listing">
 		<div class="wrap">
 
-			{% for project in site.projects reversed | where: "tags", gracias %}
+			{% for sapin in site.sapin reversed | where: "tags", gracias %}
 
-			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
+			{% if sapin.accent_color %}{% capture accent_color %}{{ sapin.accent_color }}{% endcapture %}{% endif %}
 
-			<article class="project__preview">
-				<h3 class="project__title"><a href="{{ project.url | relative_url }}" style="--accent: {{ accent_color }}">{{ project.title }}</a></h3>
+			<article class="sapin__preview">
+				<h3 class="sapin__title"><a href="{{ sapin.url | relative_url }}" style="--accent: {{ accent_color }}">{{ sapin.title }}</a></h3>
 
-				<div class="project__images owl-carousel" style="--accent: {{ accent_color }}">
-					{% for image in project.gallery_images %}
-					<a href="{{ project.url | relative_url }}"><img src="{{ '/images/projects/' | relative_url}}{{ image }}" alt="" class="project__image"></a>
+				<div class="sapin__images owl-carousel" style="--accent: {{ accent_color }}">
+					{% for image in sapin.gallery_images %}
+					<a href="{{ sapin.url | relative_url }}"><img src="{{ '/images/sapins/' | relative_url}}{{ image }}" alt="" class="sapin__image"></a>
 					{% endfor %}
 				</div>
 
-				<div class="project__content grid" style="border-color: {{ accent_color }}">
-					<p class="project__subtitle subtitle--light">{{ project.subtitle }}</p>
-					<p class="project__description --small">
-						{{ project.description }}
-						<a href="{{ project.url | relative_url }}" class="project__link button--text --right"
+				<div class="sapin__content grid" style="border-color: {{ accent_color }}">
+					<p class="sapin__subtitle subtitle--light">{{ sapin.subtitle }}</p>
+					<p class="sapin__description --small">
+						{{ sapin.description }}
+						<a href="{{ sapin.url | relative_url }}" class="sapin__link button--text --right"
 							style="color: {{ accent_color }}; --color-var: {{ accent_color }}">View Case Study</a>
 					</p>
 				</div>
