@@ -9,6 +9,7 @@ gallery_images:
   - demo.jpg
   - demo.jpg
   - demo.jpg
+tags: ok, gracias
 ---
 La corruption est un fléau qui affecte la confiance, la transparence et la performance des organisations. Elle peut avoir des conséquences graves sur le plan juridique, financier et réputationnel. Pour lutter contre la corruption, il est essentiel d’identifier les zones de risque et les acteurs exposés, et de mettre en place des dispositifs adaptés pour prévenir et détecter les faits de corruption.
 
