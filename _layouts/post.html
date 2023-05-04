@@ -20,7 +20,7 @@ layout: default
         {{ page.content }}
       </article>
       <div class="post__more grid">
-		{% assign previous_post = nil %}
+        {% assign previous_post = nil %}
         {% assign next_post = nil %}
         {% for post in site.posts %}
           {% if post.tags contains page.tags %}
