@@ -33,6 +33,9 @@ layout: default
             <a class="next-post subtitle" href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
           {% endunless %}
         {% endif %}
+        {% if page.previous.url == nil and page.next.url == nil %}
+          <p>Aucun autre post avec les mêmes tags.</p>
+        {% endif %}
       </div>
     </div>
   </section>
