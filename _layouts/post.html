@@ -18,6 +18,21 @@ layout: default
     <div class="wrap">
       <article class="post__content {% if page.highlight_first %}highlight-first{% endif %}">
         {{ page.content }}
+        {% assign tag_name = page.tags.first %}
+        {% assign related_pages = site.pages | where: "tags", tag_name | sort: "date" %}
+        {% assign related_pages_count = related_pages | size %}
+        {% if related_pages_count > 1 %}
+          <div class="related-posts">
+            <h2 class="related-posts__title">Articles connexes</h2>
+            <ul class="related-posts__list">
+              {% for related_page in related_pages %}
+                {% if related_page != page and related_page.date < page.date %}
+                  <li class="related-posts__item"><a href="{{ related_page.url }}">{{ related_page.title }}</a></li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </div>
+        {% endif %}
       </article>
       <div class="post__more grid">
 		{% assign previous_post = nil %}
