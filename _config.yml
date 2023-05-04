@@ -1,7 +1,7 @@
-site: Anateo - formations par visio seul ou en groupe
+site: Made Jekyll Theme
 
 url: 
-baseurl: /made
+baseurl: 
 
 collections:
   pages:
