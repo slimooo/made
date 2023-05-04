@@ -20,21 +20,26 @@ layout: default
         {{ page.content }}
       </article>
       <div class="post__more grid">
-        {% assign tags = post.tags %}
-        {% if page.previous.url %}
-          {% assign prev_tags = page.previous.tags %}
-          {% unless prev_tags.size == 0 or tags.size == 0 or prev_tags | where_exp: "tag", "tags contains tag" | size == 0 %}
-            <a class="prev-post subtitle" href="{{ page.previous.url | relative_url }}">{{page.previous.title}}</a>
-          {% endunless %}
+		{% assign previous_post = nil %}
+        {% assign next_post = nil %}
+        {% for post in site.posts %}
+          {% if post.tags contains tag_name %}
+            {% if post.date < page.date %}
+              {% if previous_post == nil or previous_post.date < post.date %}
+                {% assign previous_post = post %}
+              {% endif %}
+            {% else %}
+              {% if next_post == nil or next_post.date > post.date %}
+                {% assign next_post = post %}
+              {% endif %}
+            {% endif %}
+          {% endif %}
+        {% endfor %}
+        {% if previous_post %}
+          <a class="prev-post subtitle" href="{{ previous_post.url | relative_url }}">{{ previous_post.title }}</a>
         {% endif %}
-        {% if page.next.url %}
-          {% assign next_tags = page.next.tags %}
-          {% unless next_tags.size == 0 or tags.size == 0 or next_tags | where_exp: "tag", "tags contains tag" | size == 0 %}
-            <a class="next-post subtitle" href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
-          {% endunless %}
-        {% endif %}
-        {% if page.previous.url == nil and page.next.url == nil %}
-          <p>Aucun autre post avec les mêmes tags.</p>
+        {% if next_post %}
+          <a class="next-post subtitle" href="{{ next_post.url | relative_url }}">{{ next_post.title }}</a>
         {% endif %}
       </div>
     </div>
