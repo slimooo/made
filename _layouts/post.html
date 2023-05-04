@@ -23,15 +23,15 @@ layout: default
         {% assign tags = post.tags %}
         {% if page.previous.url %}
           {% assign prev_tags = page.previous.tags %}
-          {% if prev_tags.size == 0 or tags.size == 0 or prev_tags | where_exp: "tag", "tags contains tag" | size > 0 %}
+          {% unless prev_tags.size == 0 or tags.size == 0 or prev_tags | where_exp: "tag", "tags contains tag" | size == 0 %}
             <a class="prev-post subtitle" href="{{ page.previous.url | relative_url }}">{{page.previous.title}}</a>
-          {% endif %}
+          {% endunless %}
         {% endif %}
         {% if page.next.url %}
           {% assign next_tags = page.next.tags %}
-          {% if next_tags.size == 0 or tags.size == 0 or next_tags | where_exp: "tag", "tags contains tag" | size > 0 %}
+          {% unless next_tags.size == 0 or tags.size == 0 or next_tags | where_exp: "tag", "tags contains tag" | size == 0 %}
             <a class="next-post subtitle" href="{{ page.next.url | relative_url }}">{{ page.next.title }}</a>
-          {% endif %}
+          {% endunless %}
         {% endif %}
       </div>
     </div>
