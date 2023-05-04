@@ -4,8 +4,6 @@ title: Auditer la conformité de son site
 date: '2023-03-20 11:00:16'
 tags:
 - formations-rgpd
-- formations-conformite
-- formations-informatique
 ---
 
 🕒
