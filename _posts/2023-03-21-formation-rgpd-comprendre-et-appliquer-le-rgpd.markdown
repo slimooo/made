@@ -2,8 +2,7 @@
 layout: post
 title: Comprendre et appliquer le RGPD
 date: '2023-03-21 23:32:20'
-tags:
-- formations-rgpd
+tags: formations-rgpd
 ---
 
 🕒
