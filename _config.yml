@@ -1,7 +1,7 @@
-site: Made Jekyll Theme
+site: Anateo - formations par visio seul ou en groupe
 
 url: 
-baseurl: 
+baseurl: /made
 
 collections:
   pages:
@@ -10,6 +10,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
+  projects:
+    output: true
+    permalink: /project/:slug
 
 defaults:
   -
@@ -33,12 +36,6 @@ defaults:
     scope:
       path: ""
       type: "projects"
-    values:
-      layout: "project"
-  -
-    scope:
-      path: ""
-      type: "copie"
     values:
       layout: "project"
 
