@@ -29,7 +29,7 @@ featured_image: /images/social.jpg
 	<section class="listing">
 		<div class="wrap">
 
-			{% for project in site.projects reversed | where: "tags", gracias %}
+			{% for project in site.projects reversed %}
 
 			{% if project.accent_color %}{% capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
 
