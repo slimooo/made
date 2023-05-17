@@ -1,27 +1,14 @@
 ---
-layout: post
 title: Évaluer les tiers au regard de la loi SAPIN 2
-date: '2023-03-24 10:50:49'
-tags:
-- formations-sapin-2
-- formations-conformite
+subtitle: Vous devez évaluer les tiers avec lesquels vous collaborez pour prévenir la corruption et le trafic d’influence ? Découvrez comment identifier et gérer les risques liés aux tiers grâce à cette sensibilisation en ligne !
+date: 2023-03-24 10:50:49
+featured_image: demo.jpg
+accent_color: '#4C60E6'
+gallery_images:
+  - demo.jpg
+  - demo.jpg
+  - demo.jpg
 ---
-
-🕒
-
-Durée : 1h30
-
-👨‍🎓
-
-Vous pouvez venir seul ou avec vos amis/collègues (8 pers. max.)
-
-👋
-
-Séance 100% interactive par visio avec le formateur
-
-🛒
-
-Prix : 180€ TTC
 
 La loi SAPIN 2 impose aux entreprises de mettre en place des mesures pour prévenir et détecter la corruption et le trafic d’influence. Parmi ces mesures, il y a l’évaluation des tiers, c’est-à-dire des personnes ou des entités avec lesquelles l’entreprise entretient une relation d’affaires. Cette évaluation permet de vérifier que les tiers respectent les principes éthiques de l’entreprise et qu’ils ne présentent pas de risques de corruption ou de trafic d’influence.
 
