@@ -2,7 +2,7 @@
 title: Auditer la conformité de son site
 subtitle: High-fidelity mobile app designs for a super awesome social media company.
 date: 2023-03-20 11:00:16
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+description: Cette formation en ligne a été conçue pour aider les professionnels à auditer la conformité RGPD de leur site internet. Dans un monde où la protection des données personnelles est de plus en plus importante, il est essentiel de s'assurer que son site internet est en conformité avec la réglementation sur la protection des données personnelles.
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:
