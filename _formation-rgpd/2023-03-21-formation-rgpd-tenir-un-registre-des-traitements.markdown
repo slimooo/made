@@ -2,7 +2,7 @@
 title: Tenir un registre des traitements
 subtitle: High-fidelity mobile app designs for a super awesome social media company.
 date: 2023-03-21 23:50:30
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+description: Apprenez à élaborer un registre de traitement conforme aux exigences légales et maîtrisez les enjeux liés à la manipulation des données personnelles.
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:

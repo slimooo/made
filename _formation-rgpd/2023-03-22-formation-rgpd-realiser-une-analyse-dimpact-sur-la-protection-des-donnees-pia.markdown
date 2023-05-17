@@ -2,7 +2,7 @@
 title: Réaliser une Analyse d'Impact (PIA)
 subtitle: High-fidelity mobile app designs for a super awesome social media company.
 date: 2023-03-22 11:20:02
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+description: Maîtrisez les risques liés au traitement des données grâce à notre formation en ligne. Apprenez à réaliser une Analyse d’Impact (PIA) pour identifier les risques et mettre en place les mesures nécessaires pour garantir la conformité de votre entreprise avec le RGPD.
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:

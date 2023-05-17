@@ -2,7 +2,7 @@
 title: Comprendre et appliquer le RGPD
 subtitle: High-fidelity mobile app designs for a super awesome social media company.
 date: 2023-03-21 23:32:20
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+description: Protégez les données personnelles et respectez la réglementation avec notre formation en ligne sur le RGPD. Apprenez à comprendre et à appliquer les principes clés pour une gestion responsable des données.
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:

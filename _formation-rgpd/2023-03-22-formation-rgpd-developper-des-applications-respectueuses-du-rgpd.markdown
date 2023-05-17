@@ -2,7 +2,7 @@
 title: Développer des applications respectueuses du RGPD
 subtitle: High-fidelity mobile app designs for a super awesome social media company.
 date: 2023-03-22 13:32:31
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+description: Protégez les données de vos utilisateurs et respectez les réglementations en vigueur avec notre formation sur le développement d’applications conformes au RGPD. Apprenez à créer des applications sûres et fiables dès maintenant !
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:

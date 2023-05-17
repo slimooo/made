@@ -2,7 +2,7 @@
 title: Maîtriser le RGPD pour les RH
 subtitle: High-fidelity mobile app designs for a super awesome social media company.
 date: 2023-03-22 13:59:18
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+description: Vous êtes responsable RH et vous souhaitez maîtriser le RGPD pour protéger et traiter les données personnelles de vos salariés ? Découvrez notre formation qui vous permettra de connaître vos obligations, les bonnes pratiques et le rôle de la CNIL en matière de gestion des ressources humaines.
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:
