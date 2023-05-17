@@ -1,8 +1,7 @@
 ---
 title: Auditer la conformité de son site
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
+subtitle: Assurez la conformité de votre site avec le RGPD grâce à notre formation pratique. Apprenez à auditer votre site et à mettre en place les mesures nécessaires pour protéger les données personnelles de vos utilisateurs.
 date: 2023-03-20 11:00:16
-description: Assurez la conformité de votre site avec le RGPD grâce à notre formation pratique. Apprenez à auditer votre site et à mettre en place les mesures nécessaires pour protéger les données personnelles de vos utilisateurs.
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:

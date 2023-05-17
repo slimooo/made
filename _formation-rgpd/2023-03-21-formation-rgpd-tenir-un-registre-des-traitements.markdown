@@ -1,8 +1,7 @@
 ---
 title: Tenir un registre des traitements
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
+subtitle: Apprenez à élaborer un registre de traitement conforme aux exigences légales et maîtrisez les enjeux liés à la manipulation des données personnelles.
 date: 2023-03-21 23:50:30
-description: Apprenez à élaborer un registre de traitement conforme aux exigences légales et maîtrisez les enjeux liés à la manipulation des données personnelles.
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:

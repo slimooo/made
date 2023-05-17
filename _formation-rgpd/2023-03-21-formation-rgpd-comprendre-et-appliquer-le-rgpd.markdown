@@ -1,8 +1,7 @@
 ---
 title: Comprendre et appliquer le RGPD
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
+subtitle: Protégez les données personnelles et respectez la réglementation avec notre formation en ligne sur le RGPD. Apprenez à comprendre et à appliquer les principes clés pour une gestion responsable des données.
 date: 2023-03-21 23:32:20
-description: Protégez les données personnelles et respectez la réglementation avec notre formation en ligne sur le RGPD. Apprenez à comprendre et à appliquer les principes clés pour une gestion responsable des données.
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:

@@ -1,8 +1,7 @@
 ---
 title: Réaliser une Analyse d'Impact (PIA)
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
+subtitle: Maîtrisez les risques liés au traitement des données grâce à notre formation en ligne. Apprenez à réaliser une Analyse d’Impact (PIA) pour identifier les risques et mettre en place les mesures nécessaires pour garantir la conformité de votre entreprise avec le RGPD.
 date: 2023-03-22 11:20:02
-description: Maîtrisez les risques liés au traitement des données grâce à notre formation en ligne. Apprenez à réaliser une Analyse d’Impact (PIA) pour identifier les risques et mettre en place les mesures nécessaires pour garantir la conformité de votre entreprise avec le RGPD.
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:

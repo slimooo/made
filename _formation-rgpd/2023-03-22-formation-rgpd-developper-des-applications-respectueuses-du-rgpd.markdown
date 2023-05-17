@@ -1,8 +1,7 @@
 ---
 title: Développer des applications respectueuses du RGPD
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
+subtitle: Protégez les données de vos utilisateurs et respectez les réglementations en vigueur avec notre formation sur le développement d’applications conformes au RGPD. Apprenez à créer des applications sûres et fiables dès maintenant !
 date: 2023-03-22 13:32:31
-description: Protégez les données de vos utilisateurs et respectez les réglementations en vigueur avec notre formation sur le développement d’applications conformes au RGPD. Apprenez à créer des applications sûres et fiables dès maintenant !
 featured_image: demo.jpg
 accent_color: '#4C60E6'
 gallery_images:
