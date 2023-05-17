@@ -1,6 +1,6 @@
 ---
 title: Comprendre et appliquer la loi SAPIN 2
-subtitle: Vous voulez connaître les enjeux et les obligations de la loi SAPIN 2, qui vise à renforcer la transparence et la lutte contre la corruption dans la vie économique ? Suivez cette sensibilisation en ligne et découvrez comment vous mettre en conformité avec cette réglementation.
+description: Vous voulez connaître les enjeux et les obligations de la loi SAPIN 2, qui vise à renforcer la transparence et la lutte contre la corruption dans la vie économique ? Suivez cette sensibilisation en ligne et découvrez comment vous mettre en conformité avec cette réglementation.
 date: 2023-03-24 08:59:21
 featured_image: demo.jpg
 accent_color: '#4C60E6'

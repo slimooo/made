@@ -1,6 +1,6 @@
 ---
 title: Comprendre et appliquer le RGPD
-subtitle: Protégez les données personnelles et respectez la réglementation avec notre formation en ligne sur le RGPD. Apprenez à comprendre et à appliquer les principes clés pour une gestion responsable des données.
+description: Protégez les données personnelles et respectez la réglementation avec notre formation en ligne sur le RGPD. Apprenez à comprendre et à appliquer les principes clés pour une gestion responsable des données.
 date: 2023-03-21 23:32:20
 featured_image: demo.jpg
 accent_color: '#4C60E6'
@@ -43,4 +43,3 @@ Aucun prérequis n’est nécessaire pour participer à cette formation.
 ## Public cible
 
 Cette formation en ligne s’adresse à toute personne traitant des données personnelles sans compétence particulière dans le domaine juridique ou informatique. Elle convient aux dirigeants, aux managers, aux employés ou aux indépendants qui veulent se former au RGPD et adopter une démarche responsable vis-à-vis des données personnelles.
-

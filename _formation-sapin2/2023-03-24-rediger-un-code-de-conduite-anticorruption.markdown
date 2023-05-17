@@ -1,6 +1,6 @@
 ---
 title: Rédiger un code de conduite anticorruption
-subtitle: Vous souhaitez renforcer la conformité de votre entreprise et prévenir les risques de corruption ? Vous voulez savoir comment rédiger un code de conduite anticorruption efficace et adapté à votre activité ? Cette formation en ligne est faite pour vous !
+description: Vous souhaitez renforcer la conformité de votre entreprise et prévenir les risques de corruption ? Vous voulez savoir comment rédiger un code de conduite anticorruption efficace et adapté à votre activité ? Cette formation en ligne est faite pour vous !
 date: 2023-03-24 09:55:42
 featured_image: demo.jpg
 accent_color: '#4C60E6'

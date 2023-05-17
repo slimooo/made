@@ -1,6 +1,6 @@
 ---
 title: Évaluer les tiers au regard de la loi SAPIN 2
-subtitle: Vous devez évaluer les tiers avec lesquels vous collaborez pour prévenir la corruption et le trafic d’influence ? Découvrez comment identifier et gérer les risques liés aux tiers grâce à cette sensibilisation en ligne !
+description: Vous devez évaluer les tiers avec lesquels vous collaborez pour prévenir la corruption et le trafic d’influence ? Découvrez comment identifier et gérer les risques liés aux tiers grâce à cette sensibilisation en ligne !
 date: 2023-03-24 10:50:49
 featured_image: demo.jpg
 accent_color: '#4C60E6'

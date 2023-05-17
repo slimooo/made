@@ -1,6 +1,6 @@
 ---
 title: Maîtriser le RGPD pour les RH
-subtitle: Vous êtes responsable RH et vous souhaitez maîtriser le RGPD pour protéger et traiter les données personnelles de vos salariés ? Découvrez notre formation qui vous permettra de connaître vos obligations, les bonnes pratiques et le rôle de la CNIL en matière de gestion des ressources humaines.
+description: Vous êtes responsable RH et vous souhaitez maîtriser le RGPD pour protéger et traiter les données personnelles de vos salariés ? Découvrez notre formation qui vous permettra de connaître vos obligations, les bonnes pratiques et le rôle de la CNIL en matière de gestion des ressources humaines.
 date: 2023-03-22 13:59:18
 featured_image: demo.jpg
 accent_color: '#4C60E6'

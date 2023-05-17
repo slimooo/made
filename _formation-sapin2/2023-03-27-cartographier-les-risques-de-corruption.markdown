@@ -1,6 +1,6 @@
 ---
 title: Cartographier les risques de corruption
-subtitle: Vous voulez prévenir et détecter les risques de corruption dans votre organisation ? Découvrez notre formation en ligne qui vous apprendra à cartographier les risques de corruption et à mettre en place des mesures de prévention efficaces.
+description: Vous voulez prévenir et détecter les risques de corruption dans votre organisation ? Découvrez notre formation en ligne qui vous apprendra à cartographier les risques de corruption et à mettre en place des mesures de prévention efficaces.
 date: 2023-03-27 08:22:28
 featured_image: demo.jpg
 accent_color: '#4C60E6'
