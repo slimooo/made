@@ -19,6 +19,9 @@ collections:
   formation-rgpd:
     output: true
     permalink: /formation-rgpd/:slug
+  formation-sapin2:
+    output: true
+    permalink: /formation-sapin2/:slug
 
 defaults:
   -
@@ -54,6 +57,12 @@ defaults:
     scope:
       path: ""
       type: "formation-rgpd"
+    values:
+      layout: "project"
+  -
+    scope:
+      path: ""
+      type: "formation-sapin2"
     values:
       layout: "project"
 
