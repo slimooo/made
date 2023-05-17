@@ -16,6 +16,9 @@ collections:
   copie:
     output: true
     permalink: /copie/:slug
+  formation-rgpd:
+    output: true
+    permalink: /formation-rgpd/:slug
 
 defaults:
   -
@@ -45,6 +48,12 @@ defaults:
     scope:
       path: ""
       type: "copie"
+    values:
+      layout: "project"
+  -
+    scope:
+      path: ""
+      type: "formation-rgpd"
     values:
       layout: "project"
 
